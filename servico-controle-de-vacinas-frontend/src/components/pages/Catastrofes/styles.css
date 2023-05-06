@@ -1,0 +1,79 @@
+.titulo-catastrofes {
+    position: absolute;
+    top: 160px;
+    left: 300px;
+    color:  #08f8ec;
+    background-color: rgba(0, 0, 0, 0.418);
+    font-weight: bold;
+}
+
+.backgroundimage img {
+    min-width: 100vw;
+    color: #fff !important;
+    margin: 0 3px 0 3px;
+}
+
+.backgroundimage {
+    display: flex;
+    justify-content: center;
+}
+
+.set-photo img{
+    width: 100%;
+    vertical-align: middle;
+    border: 0;
+}
+
+.infoBlock img{
+    left: 100px;
+
+
+}
+
+.infoBlock h4{
+    font-size: 100%;
+
+}
+
+.Catastrofes h3 {
+	font-size: 18px;
+	line-height: 25px;
+	color: #000;
+	letter-spacing: .1em;
+	font-weight: bold;
+}
+
+.card-title{
+    text-align: justify;
+    padding: 10px;  
+}
+
+.card-text {
+    text-align: justify;
+    padding: 10px;
+}
+
+.card {
+    max-width: 300px !important;
+    min-height: 400px;
+}
+
+.video9 {
+    display: inline-flex;
+}
+
+.card-iframe-top {
+    padding: 0;
+}
+
+.a {
+	list-style-type: disc;
+	}
+
+.b {
+	list-style-type: circle;
+	}
+
+.c {
+	list-style-type: square;
+	}
