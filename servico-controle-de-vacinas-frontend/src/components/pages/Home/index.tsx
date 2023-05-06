@@ -3,12 +3,12 @@ import './styles.css'
 import SayMyName from '../../layouts/SayMyName'
 
 function Home() {
-    const nome = 'Yana'
+    const nome = 'Lélia'
     return (
         <div className="Home">
                 <div>
                     <br></br>
-                    <h1>Bem-vindo ao site de <span>Controle de Vacinas</span></h1>
+                    <h1>Bem-vindo ao <span>Controle de Estoque de Vacinas</span></h1>
                     <SayMyName nome = {nome} />
                     <p>Comece a gerenciar as suas vacinas agora mesmo!</p>
                                 
@@ -57,19 +57,21 @@ function Home() {
                 <br></br>
                 
 
-                <p>O Portal de Vacinas é um site que busca conectar quem precisa se vacinar ao local onde está sendo disponibilizada essa vacina na cidade de Sorocaba.</p>
-                <p>Para isso, é realizado o cadastro no nosso site, uma vez cadastro o nosso usuário recebe notificações avisando tanto via SMS quanto por e-mail sobre onde se vacinar.</p>
+                <p>O Portal de Vacinas é um site que busca atender a dois públicos: os profissionais de saúde e as pessoas que tem interesse de se imunizar.</p>
+                <p> Para os profissionais de saúde, os mesmos podem se logar e atualizar a quantidade de imunizantes disponíveis nas unidades básicas de saúde.</p>
+                <p> E para a população geral, o site serve para acompanhar a quantidade de vacinas disponíveis nos postos de saúde da cidade de Salto/SP, e fiscalizar a gestão pública desses recursos.</p>
+                
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/jV-uhu1aAqM" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                 <br></br>
                 <br></br>
                 <h3>Visão, Missão e Valores</h3>
                 <p><strong>Visão:</strong> tornar-se uma ferramenta de integração entre as pessoas que precisam das vacinas e o ponto de vacinação mais próximo.</p>
-                <p><strong>Missão:</strong> facilitar o acesso das pessoas aos serviços públicos de vacinação e à informação sobre vacinas, saúde e prevenção de doenças.</p>
+                <p><strong>Missão:</strong> facilitar o acesso das pessoas aos serviços públicos de vacinação e à informação sobre vacinas.</p>
                 <p><strong>Valores:</strong> Responsabilidade, Cuidado, Praticidade, Transparência, Parceria e Integração.</p>
                 <br></br>
                 <h3>Outros assuntos</h3>
                 <p>Entendemos a importância da imunização através da vacinação, mas não podemos tirar a importância de outros itens de extrema importância para a saúde das pessoas.</p>
-                <p>Devido a isso, disponibilizamos em nosso site páginas que tratam de outro assuntos como <a href="Campanhas">Campanhas</a>, <a href="doencasTransmissiveis">Doenças Transmissíveis</a>, <a href="epidemiologia">Epidemiologia</a> e <a href="catastrofes">Catástrofes</a>.</p>
+                <p>Devido a isso, disponibilizamos em nosso site páginas que tratam de outro assuntos como <a href="Campanhas">Campanhas</a>.</p>
                 <p>Fique por dentro desses assuntos, acessando através dos links acima.</p>
                 <br></br>
 
