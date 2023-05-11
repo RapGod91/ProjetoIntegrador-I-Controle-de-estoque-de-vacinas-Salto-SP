@@ -26,15 +26,7 @@ function Navbar() {
             <li className='item'>
                 <Link to='/campanhas'>Campanhas</Link>
             </li>
-            <li className='item'>
-                <Link to='/doencasTransmissiveis'>Doenças Transmissíveis</Link>
-            </li>
-            <li className='item'>
-                <Link to='/epidemiologia'>Epidemiologia</Link>
-            </li>
-            <li className='item'>
-                <Link to='/catastrofes'>Catástrofes</Link>
-            </li>
+         
         </ul>        
     </nav> 
     )
