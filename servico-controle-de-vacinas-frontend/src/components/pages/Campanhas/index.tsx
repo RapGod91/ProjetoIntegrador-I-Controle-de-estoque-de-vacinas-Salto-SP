@@ -17,7 +17,7 @@ function Campanhas() {
 
                 <div>
                     <br></br>
-                    <h2>Olá, Seja bem vindo(a) à página de campanhas de vacinação da região metropolitana de Sorocaba/SP. </h2>
+                    <h2>Olá, Seja bem vindo(a) à página de campanhas de vacinação da região metropolitana de Salto/SP. </h2>
                     <br></br>
                     <p>Para visualizar as campanhas disponíveis em sua cidade clique na opção abaixo:</p>
                     <h1 className="titulo-Campanhas">Campanhas</h1>

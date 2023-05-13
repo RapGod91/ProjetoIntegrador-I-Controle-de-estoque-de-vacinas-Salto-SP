@@ -20,12 +20,12 @@ function Vacinas() {
                     <div className="dsmeta-card">
 
 
-                        <h1 className="titulo-Vacinas">Carteira de Vacinação Digital</h1>
+                        <h1 className="titulo-Vacinas">Estoque Digital de Vacinas</h1>
                         <br></br>
                         <br></br>
                         <div>
                             <h1 className="MSG-Vacinas-carteira">
-                                Seja bem vindo(a) a sua carteira de vacinação digital.
+                                Seja bem vindo(a) ao estoque de vacinas digital.
                             </h1>
                         </div>
                         <br></br>
@@ -44,8 +44,8 @@ function Vacinas() {
                                                 <th className="show476">4 MESES</th>
                                                 <th className="show992">6 MESES</th>
                                                 <th className="show992">12 MESES</th>
-                                                <th className="show992">ABRIL/22</th>
-                                                <th className="show992">MARÇO/23</th>
+                                                <th className="show992">18 MESES</th>
+                                                <th className="show992">24 MESES</th>
                                                 <th className="show992">PROTEÇÃO</th>
                                                 <th>Notificar</th>
                                             </tr>
@@ -53,9 +53,9 @@ function Vacinas() {
                                         </thead>
                                         <tbody className="table_comBordas">
                                             <td className="show992" >BCG</td>
-                                            <td className="show576">DOSE ÚNICA</td>
+                                            <td className="show576">15</td>
                                             <td className="show476"></td>
-                                            <td className="show992"></td>
+                                            <td className="show992">30</td>
                                             <td className="show992"></td>
                                             <td className="show992"></td>
                                             <td className="show992"></td>
@@ -71,8 +71,8 @@ function Vacinas() {
                                         </tbody>
                                         <tbody className="table_comBordas" >
                                             <td className="show992">HEPATITE B </td>
-                                            <td className="show576">DOSE AO NASCER</td>
-                                            <td className="show476"></td>
+                                            <td className="show576">22</td>
+                                            <td className="show476">30</td>
                                             <td className="show992"></td>
                                             <td className="show992"></td>
                                             <td className="show992"></td>
@@ -89,10 +89,10 @@ function Vacinas() {
                                         </tbody>
                                         <tbody className="table_comBordas" >
                                             <td className="show992">PNEUMOCÓCIA</td>
-                                            <td className="show576">X</td>
-                                            <td className="show476">X</td>
-                                            <td className="show992">X</td>
-                                            <td className="show992">REFORÇO</td>
+                                            <td className="show576"></td>
+                                            <td className="show476"></td>
+                                            <td className="show992"></td>
+                                            <td className="show992">45</td>
                                             <td className="show992"></td>
                                             <td className="show992"></td>
                                             <td className="show992">PNEUMONIA, MENINGITE E INFECÇÕES CAUSADO PELO PNEUMOCOCO</td>
@@ -108,9 +108,9 @@ function Vacinas() {
                                         
                                         <tbody className="table_comBordas" >
                                         <td className="show992">PENTAVELMENTE</td>
-                                            <td className="show576">X</td>
-                                            <td className="show476">X</td>
-                                            <td className="show992">X</td>
+                                            <td className="show576"></td>
+                                            <td className="show476"></td>
+                                            <td className="show992">115</td>
                                             <td className="show992"></td>
                                             <td className="show992"></td>
                                             <td className="show992"></td>
@@ -126,10 +126,10 @@ function Vacinas() {
                                         </tbody>
                                         <tbody className="table_comBordas" >
                                             <td className="show992">POLIOMELITE</td>
-                                            <td className="show576">X</td>
-                                            <td className="show476">X</td>
-                                            <td className="show992">X</td>
+                                            <td className="show576"></td>
+                                            <td className="show476"></td>
                                             <td className="show992"></td>
+                                            <td className="show992">198</td>
                                             <td className="show992"></td>
                                             <td className="show992"></td>
                                             <td className="show992">FORMAS GRAVES DE TUBERCULOSE NA INFANCIA</td>
@@ -146,7 +146,7 @@ function Vacinas() {
                                             <td className="show992">MENGICOCO C </td>
                                             <td className="show576"></td>
                                             <td className="show476"></td>
-                                            <td className="show992">X</td>
+                                            <td className="show992">217</td>
                                             <td className="show992"></td>
                                             <td className="show992"></td>
                                             <td className="show992"></td>
@@ -162,8 +162,8 @@ function Vacinas() {
                                         </tbody>
                                         <tbody className="table_comBordas" >
                                             <td className="show992">ROTAVÍRUS</td>
-                                            <td className="show576">X</td>
-                                            <td className="show476">X</td>
+                                            <td className="show576">13</td>
+                                            <td className="show476">110</td>
                                             <td className="show992"></td>
                                             <td className="show992"></td>
                                             <td className="show992"></td>
@@ -184,7 +184,7 @@ function Vacinas() {
                                             <td className="show476"></td>
                                             <td className="show992"></td>
                                             <td className="show992"></td>
-                                            <td className="show992">X</td>
+                                            <td className="show992">188</td>
                                             <td className="show992"></td>
                                             <td className="show992">SARAMPO, RUBÉOLA E CAXUMBA</td>
                                             <td>
@@ -201,7 +201,7 @@ function Vacinas() {
                                             <td className="show992">FEBRE AMARELA</td>
                                             <td className="show576"></td>
                                             <td className="show476"></td>
-                                            <td className="show992">X</td>
+                                            <td className="show992">210</td>
                                             <td className="show992"></td>
                                             <td className="show992"></td>
                                             <td className="show992"></td>
@@ -221,8 +221,8 @@ function Vacinas() {
                                             <td className="show576"></td>
                                             <td className="show476"></td>
                                             <td className="show992"></td>
-                                            <td className="show992">X</td>
-                                            <td className="show992">X</td>
+                                            <td className="show992">138</td>
+                                            <td className="show992">515</td>
                                             <td className="show992"></td>
                                             <td className="show992">FEBRE AMARELA</td>
                                             <td>
