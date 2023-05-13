@@ -10,7 +10,7 @@ function Login() {
 <br></br>
 <form className="row g-3">
 <div className="col-md-4">
-      <label htmlFor="validationServer02" className="form-label">CPF<br/></label>
+      <label htmlFor="validationServer02" className="form-label">Login<br/></label>
       <input type="text" className="form-control is-valid" id="validationServer02"
       aria-describedby="validationServer02Feedback" required></input>
       <div id="validationServer02Feedback" className="valid-feedback">
